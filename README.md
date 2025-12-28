@@ -30,6 +30,23 @@ A web application that translates 2D sketches into 3D models in real-time. This 
   - CSS3 for styling and animations
   - Vanilla JavaScript for interactivity
 
+## Deploy on Replit
+
+You can deploy this project page directly on Replit:
+
+1. Click the button below to import this repository into Replit:
+
+   [![Run on Replit](https://replit.com/badge/github/ismaelloveexcel/CSG-3D-page)](https://replit.com/github/ismaelloveexcel/CSG-3D-page)
+
+2. Alternatively, you can manually import:
+   - Go to [Replit](https://replit.com)
+   - Click "Create Repl" → "Import from GitHub"
+   - Paste the repository URL: `https://github.com/ismaelloveexcel/CSG-3D-page`
+   - Click "Import from GitHub"
+
+3. Once imported, click the "Run" button to start the server
+4. The project page will be available at the URL provided by Replit
+
 ## Setup and Installation
 
 1. Clone the repository:
